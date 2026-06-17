@@ -1,30 +1,30 @@
-# Tezcode вЂ” AI Software Factory рџ‡єрџ‡ї
+# Tezcode — AI Software Factory 🇺🇿
 
 > **Tezcode** is an AI software factory based in **Tashkent, Uzbekistan**. We build
 > custom software, AI agents and business automation for companies across
-> Uzbekistan, Central Asia and the CIS region вЂ” from idea to production.
+> Uzbekistan, Central Asia and the CIS region — from idea to production.
 >
-> **Tezcode** вЂ” Toshkentda (O'zbekiston) joylashgan AI Software Factory.
+> **Tezcode** — Toshkentda (O'zbekiston) joylashgan AI Software Factory.
 > G'oyadan tayyor mahsulotgacha: buyurtma asosida dasturiy ta'minot, AI agentlar
 > va biznes avtomatlashtirish yechimlari.
 
-## рџЏЄ Products / Mahsulotlar
+## 🏪 Products / Mahsulotlar
 
 | Product | What it does | Link |
 |---------|--------------|------|
-| **RAOS** | Offline-first POS (point of sale) system for retail in Uzbekistan вЂ” cash register, inventory, Soliq.uz fiscal integration, AI reports | [raos.uz](https://raos.uz) |
-| **WeWatch** | Social online cinema / watch-party platform (7 microservices) | вЂ” |
-| **WorkControl** | Employee work monitoring and management system | вЂ” |
-| **CoreMed** | Healthtech ecosystem: HamshiraGo (nurse marketplace), ClinicaGo (clinic SaaS) | вЂ” |
+| **RAOS** | Offline-first POS (point of sale) system for retail in Uzbekistan — cash register, inventory, Soliq.uz fiscal integration, AI reports | [raos.uz](https://raos.uz) |
+| **WeWatch** | Social online cinema / watch-party platform (7 microservices) | — |
+| **WorkControl** | Employee work monitoring and management system | — |
+| **CoreMed** | Healthtech ecosystem: HamshiraGo (nurse marketplace), ClinicaGo (clinic SaaS) | — |
 
-## рџ›  Services / Xizmatlar
+## 🛠 Services / Xizmatlar
 
-- рџ’Ў Turning startup ideas into products (MVP development)
-- рџ¤– AI automation for business processes
-- рџ‘ЁвЂЌрџ’» Hire senior developers from Tashkent вЂ” [tezcode.dev/hire-developers](https://www.tezcode.dev/hire-developers)
-- рџ›  Custom software: web, mobile, ERP, LMS, platforms
+- 💡 Turning startup ideas into products (MVP development)
+- 🤖 AI automation for business processes
+- 👨‍💻 Hire senior developers from Tashkent — [tezcode.dev/hire-developers](https://www.tezcode.dev/hire-developers)
+- 🛠 Custom software: web, mobile, ERP, LMS, platforms
 
-## рџ“Ќ Company / Kompaniya
+## 📍 Company / Kompaniya
 
 - **Founded:** 2024
 - **Founder:** Bekzod Mirzaaliyev
@@ -33,6 +33,6 @@
 - **Telegram:** [@tezcode_ai](https://t.me/tezcode_ai)
 - **Instagram:** [@tezcode_dev](https://instagram.com/tezcode_dev)
 
-## рџЊђ Languages
+## 🌐 Languages
 
 We work in Uzbek, Russian and English. / O'zbek, rus va ingliz tillarida ishlaymiz.
